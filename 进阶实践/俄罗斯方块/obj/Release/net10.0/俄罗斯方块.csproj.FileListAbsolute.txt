@@ -1,0 +1,14 @@
+D:\source\repos\进阶实践\俄罗斯方块\bin\Release\net10.0\俄罗斯方块.exe
+D:\source\repos\进阶实践\俄罗斯方块\bin\Release\net10.0\俄罗斯方块.deps.json
+D:\source\repos\进阶实践\俄罗斯方块\bin\Release\net10.0\俄罗斯方块.runtimeconfig.json
+D:\source\repos\进阶实践\俄罗斯方块\bin\Release\net10.0\俄罗斯方块.dll
+D:\source\repos\进阶实践\俄罗斯方块\bin\Release\net10.0\俄罗斯方块.pdb
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\俄罗斯方块.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\俄罗斯方块.AssemblyInfoInputs.cache
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\俄罗斯方块.AssemblyInfo.cs
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\俄罗斯方块.csproj.CoreCompileInputs.cache
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\俄罗斯方块.dll
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\refint\俄罗斯方块.dll
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\俄罗斯方块.pdb
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\俄罗斯方块.genruntimeconfig.cache
+D:\source\repos\进阶实践\俄罗斯方块\obj\Release\net10.0\ref\俄罗斯方块.dll
