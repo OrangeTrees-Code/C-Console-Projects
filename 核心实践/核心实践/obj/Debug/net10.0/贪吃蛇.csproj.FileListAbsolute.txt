@@ -1,0 +1,14 @@
+D:\source\repos\核心实践\核心实践\bin\Debug\net10.0\贪吃蛇.exe
+D:\source\repos\核心实践\核心实践\bin\Debug\net10.0\贪吃蛇.deps.json
+D:\source\repos\核心实践\核心实践\bin\Debug\net10.0\贪吃蛇.runtimeconfig.json
+D:\source\repos\核心实践\核心实践\bin\Debug\net10.0\贪吃蛇.dll
+D:\source\repos\核心实践\核心实践\bin\Debug\net10.0\贪吃蛇.pdb
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\贪吃蛇.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\贪吃蛇.AssemblyInfoInputs.cache
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\贪吃蛇.AssemblyInfo.cs
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\贪吃蛇.csproj.CoreCompileInputs.cache
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\贪吃蛇.dll
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\refint\贪吃蛇.dll
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\贪吃蛇.pdb
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\贪吃蛇.genruntimeconfig.cache
+D:\source\repos\核心实践\核心实践\obj\Debug\net10.0\ref\贪吃蛇.dll
