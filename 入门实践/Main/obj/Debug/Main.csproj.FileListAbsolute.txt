@@ -1,0 +1,7 @@
+D:\source\repos\入门实践\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+D:\source\repos\入门实践\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\source\repos\入门实践\Main\bin\Debug\Main.exe.config
+D:\source\repos\入门实践\Main\bin\Debug\Main.exe
+D:\source\repos\入门实践\Main\bin\Debug\Main.pdb
+D:\source\repos\入门实践\Main\obj\Debug\Main.exe
+D:\source\repos\入门实践\Main\obj\Debug\Main.pdb

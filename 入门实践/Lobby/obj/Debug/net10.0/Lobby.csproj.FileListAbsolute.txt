@@ -1,0 +1,11 @@
+D:\source\repos\入门实践\Lobby\bin\Debug\net10.0\Lobby.deps.json
+D:\source\repos\入门实践\Lobby\bin\Debug\net10.0\Lobby.dll
+D:\source\repos\入门实践\Lobby\bin\Debug\net10.0\Lobby.pdb
+D:\source\repos\入门实践\Lobby\obj\Debug\net10.0\Lobby.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\入门实践\Lobby\obj\Debug\net10.0\Lobby.AssemblyInfoInputs.cache
+D:\source\repos\入门实践\Lobby\obj\Debug\net10.0\Lobby.AssemblyInfo.cs
+D:\source\repos\入门实践\Lobby\obj\Debug\net10.0\Lobby.csproj.CoreCompileInputs.cache
+D:\source\repos\入门实践\Lobby\obj\Debug\net10.0\Lobby.dll
+D:\source\repos\入门实践\Lobby\obj\Debug\net10.0\refint\Lobby.dll
+D:\source\repos\入门实践\Lobby\obj\Debug\net10.0\Lobby.pdb
+D:\source\repos\入门实践\Lobby\obj\Debug\net10.0\ref\Lobby.dll
