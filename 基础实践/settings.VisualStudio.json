@@ -1,0 +1,6 @@
+/* Visual Studio Settings File */
+{
+  "debugging.hotReload.nativeApplyChangesOnContinue": false,
+  "debugging.hotReload.nativeStaleCodeWarning": false,
+  "debugging.hotReload.enableForNoDebugLaunch": false
+}

@@ -1,0 +1,14 @@
+D:\source\repos\基础实践\基础实践\bin\Debug\net10.0\Main.exe
+D:\source\repos\基础实践\基础实践\bin\Debug\net10.0\Main.deps.json
+D:\source\repos\基础实践\基础实践\bin\Debug\net10.0\Main.runtimeconfig.json
+D:\source\repos\基础实践\基础实践\bin\Debug\net10.0\Main.dll
+D:\source\repos\基础实践\基础实践\bin\Debug\net10.0\Main.pdb
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\Main.AssemblyInfoInputs.cache
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\Main.AssemblyInfo.cs
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\Main.csproj.CoreCompileInputs.cache
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\Main.dll
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\refint\Main.dll
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\Main.pdb
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\Main.genruntimeconfig.cache
+D:\source\repos\基础实践\基础实践\obj\Debug\net10.0\ref\Main.dll
